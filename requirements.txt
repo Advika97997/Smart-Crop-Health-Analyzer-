@@ -1,5 +1,0 @@
-mysql-connector-python
-Pillow
-opencv-python
-numpy
-reportlab
